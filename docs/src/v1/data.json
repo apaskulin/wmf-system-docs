@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "name": "MediaModeration",
+        "description": "MediaWiki PhotoDNA extension",
+        "type": "MediaWiki extension",
+        "docs": "https://www.mediawiki.org/wiki/Extension:MediaModeration",
+        "source": "https://github.com/wikimedia/mediawiki-extensions-MediaModeration",
+        "team": "Platform engineering"
+      },
+      {
+        "name": "OAuth",
+        "description": "MediaWiki OAuth extension",
+        "type": "MediaWiki extension",
+        "docs": "https://www.mediawiki.org/wiki/Extension:OAuth",
+        "api_docs": "https://www.mediawiki.org/wiki/Extension:OAuth#OAuth_2.0_REST_endpoints",
+        "source": "https://github.com/wikimedia/mediawiki-extensions-OAuth",
+        "team": "Platform engineering"
+      },
+      {
+        "name": "OAuthRateLimiter",
+        "description": "MediaWiki extension for adding ratelimit values to the OAuth JSON Web Token (JWT)",
+        "type": "MediaWiki extension",
+        "docs": "https://www.mediawiki.org/wiki/Extension:OAuthRateLimiter",
+        "source": "https://github.com/wikimedia/mediawiki-extensions-OAuthRateLimiter",
+        "team": "Platform engineering"
+      }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "WMF system docs",
+  "version": "0.0.1",
+  "description": "Data-based documentation static site for the Wikimedia Foundation",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/WMF system docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
